@@ -69,15 +69,3 @@ body{
     height:.5rem;
   }
 }
-@media (prefers-color-scheme: dark){
-  .clock{
-    background-color:white; 
-    border:1rem solid #f20045;
-  }
-  .hand{
-    background-color:black;
-  }
-  .hand-sec{
-    background-color:red;
-  }
-}
